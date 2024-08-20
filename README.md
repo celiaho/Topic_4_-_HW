@@ -1,0 +1,1 @@
+This program creates a ReadingMaterial class as specified by its UML and creates a TestReadingMaterial class that instantiates instances of ReadingMaterial, Newspaper and Book. It creates a method in TestReadingMaterial that demonstrates polymorphism with the signature "printReadingMaterial(ReadingMaterial rm)" to print each instance and calls the object's toString method.
